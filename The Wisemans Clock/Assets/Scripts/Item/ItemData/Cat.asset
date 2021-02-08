@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ea6fa1f4ef4e4f4f960ca4d95bc29fb, type: 3}
+  m_Name: Cat
+  m_EditorClassIdentifier: 
+  uiImage: {fileID: 2800000, guid: de84cbbaa78135d428ff391e6eee391d, type: 3}
+  itemType: 4
+  spawnOnGroundOnDrop: 1
+  objectToSpawnOnGround: {fileID: 5086788890573898632, guid: 1bb169145dd9cd94782c9670e79c62d0, type: 3}
